@@ -9,4 +9,9 @@ Intro 🤫 🤔 🗿
 
 My Sigma Website 🙀 👀 🌚
 ---------
-I own a thing at https://o9creeperboi.weebly.com
+I own a thing at https://o9creeperboi.weebly.com %n
+Go check it out, our collection is *endless* 😉 %n
+(Okay to be honest we don't even have 10 games lol. This is because:
+1. I make all of the games, so progress is slow
+2. All of the games are at LEAST semi-original, so this makes production even slower
+3. We are currently not hiring as of now. Sorry!)
