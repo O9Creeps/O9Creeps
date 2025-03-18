@@ -18,6 +18,11 @@ Okay to be honest we don't even have 10 games lol. This is because:
 3. We are currently not hiring as of now. Sorry!
 ```
 
-JoeOs 🧑 🗣 🖥
+JoeOS 🧑 🗣 🖥
 ---------
-JoeOS 😹
+Are you a fan of Joe Simulator by PuzzlingGGG?? Then you should check this crap out!!!!!!!!!!!!!!!!!!!!
+It's still in development, but I am willing to work with others on this heck of a project :D
+Conditions:
+- I don't have discord so Scratch and GitHub are my main talkie-talkie sites.
+- I'm using PenguinMod to develop this stuff, so no Gandi IDE...
+- I may need to use C/C++ for some stuff, and I have zero clue how to code in those so yeah.
