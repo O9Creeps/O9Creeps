@@ -17,3 +17,7 @@ Okay to be honest we don't even have 10 games lol. This is because:
 2. All of the games are at LEAST semi-original, so this makes production even slower
 3. We are currently not hiring as of now. Sorry!
 ```
+
+JoeOs 🧑 🗣 🖥
+---------
+JoeOS 😹
