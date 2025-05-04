@@ -17,12 +17,3 @@ Okay to be honest we don't even have 10 games lol. This is because:
 2. All of the games are at LEAST semi-original, so this makes production even slower
 3. We are currently not hiring as of now. Sorry!
 ```
-
-JoeOS 🧑 🗣 🖥
----------
-Are you a fan of Joe Simulator by PuzzlingGGG?? Then you should check this crap out!!!!!!!!!!!!!!!!!!!!
-It's still in development, but I am willing to work with others on this heck of a project :D
-Conditions:
-- I don't have discord so Scratch and GitHub are my main talkie-talkie sites.
-- I'm using PenguinMod to develop this stuff, so no Gandi IDE...
-- I may need to use C/C++ for some stuff, and I have zero clue how to code in those so yeah.
