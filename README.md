@@ -6,4 +6,4 @@
 --------
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=O9Creeps&theme=black-ice&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=O9Creeps&theme=slateorange&hide_border=true&background=02010100&card_width=1000&card_height=200)](https://git.io/streak-stats)
